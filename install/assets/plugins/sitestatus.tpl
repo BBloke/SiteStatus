@@ -40,7 +40,7 @@ $style = "
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
 	background-color: #ffe3e3;
-	background-image: url(/modx/assets/images/icons/note-exclamation.webp);
+	background-image: url(../assets/images/icons/note-exclamation.webp);
 	background-position: 9px 0px;
 	background-repeat: no-repeat;
 	border: solid 1px #ff0000;
