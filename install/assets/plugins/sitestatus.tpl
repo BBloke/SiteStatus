@@ -14,12 +14,6 @@
  * @link
  * @lastupdate  16/4/2022
  */
-// get manager role
-$internalKey = $modx->getLoginUserID();
-$sid = $modx->sid;
-$role = $_SESSION['mgrRole'];
-$user = $_SESSION['mgrShortname'];
-
 
 // get language
 global $modx,$_lang;
